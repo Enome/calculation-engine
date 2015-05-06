@@ -1,0 +1,12 @@
+inputs:
+
+  one: 1
+  two: 2
+
+
+formulas:
+  total: $one + $two
+
+
+results:
+  - total
